@@ -1,0 +1,9 @@
+{
+  "eventid": "cowrie.login.success",
+  "timestamp": "2025-12-30T09:42:38Z",
+  "src_ip": "103.70.197.99",
+  "username": "root",
+  "session": "3ddac984b932",
+  "protocol": "ssh",
+  "message": "Successful SSH login detected in honeypot environment"
+}
